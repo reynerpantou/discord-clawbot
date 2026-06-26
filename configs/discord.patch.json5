@@ -1,0 +1,16 @@
+{
+  channels: {
+    discord: {
+      groupPolicy: "allowlist",
+      guilds: {
+        "667703810407268400": {
+          requireMention: true,
+          ignoreOtherMentions: true,
+          roles: [
+            "1520126823231524965"
+          ]
+        }
+      }
+    }
+  }
+}

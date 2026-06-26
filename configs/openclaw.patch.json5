@@ -1,0 +1,12 @@
+{
+  agents: {
+    defaults: {
+      sandbox: {
+        mode: "all",
+        backend: "docker",
+        workspaceAccess: "none",
+        scope: "session"
+      }
+    }
+  }
+}
